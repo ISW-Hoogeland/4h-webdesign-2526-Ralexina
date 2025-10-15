@@ -3,9 +3,8 @@
 
 This repository is a template for Dutch students of ISW Hoogeland grades havo-4 and vwo-4 (highschool grade 10 in the US-system).
 It contains startcode for an assigment to build a website. The recommended IDE for this template is Codespaces.
-
-This template has been forked from Stanislascollege Westplantsoen. Roan
-
+roan
+This template has been forked from Stanislascollege Westplantoen. 
 ## 1. Open een Codespace
 
 Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een browser toegang krijgt tot een server. Op de server staat een kopie van jouw bestanden uit GitHub.
