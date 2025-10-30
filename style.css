@@ -35,9 +35,6 @@ header {
   display: flex;
   align-items: center;
   padding: 0 20px;
-}
-
-header h1 {
   font-size: var(--title-size);
   margin: 0;
 }
@@ -47,9 +44,6 @@ nav {
   grid-area: nav;
   background-color: var(--gray);
   padding: 20px;
-}
-nav {
-  background-color: var(--gray);
 }
 
 
