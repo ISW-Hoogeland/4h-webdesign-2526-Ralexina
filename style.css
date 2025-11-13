@@ -46,10 +46,29 @@ nav {
   grid-area: nav;
   background-color: var(--gray);
   padding: 15px;
+ 
 }
 
 nav ul li {
-  margin: 5px;
+  margin: 50px;
+  margin-right: 0px;
+  margin-left: 10px;
+list-style: none;
+
+}
+
+a {
+   text-decoration: none;
+  color: var(--black);
+  padding: 15px;
+  border-radius: 10px;
+font-size: 150%;
+
+}
+
+nav ul li a:hover {
+background-color: var(--white);
+
 }
 
 
